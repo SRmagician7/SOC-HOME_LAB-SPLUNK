@@ -72,4 +72,4 @@ We did a lot of work to make sure the environment was stable and secure.
 
 * **Service Validation:** I checked that the main programs that collect data, like Sysmon and Splunk Universal Forwarder were started and running all the time in the background.
 
-![Service Validation](services.msc%20showing%20Sysmon%20%26%20SplunkForwarder%20%27Running%27..jpg)
+![Service Validation](services_check.png)
